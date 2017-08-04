@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project>
-<parent>
-    <artifactId>components</artifactId>
-    <groupId>org.apache.camel</groupId>
-    <version>2.9-SNAPSHOT</version>
-  </parent>
   <modelVersion>4.0.0</modelVersion>
   <artifactId>camel-zookeeper</artifactId>
  
@@ -46,8 +41,7 @@
     </dependency>      
     <dependency>
       <groupId>org.apache.camel</groupId>
-      <artifactId>camel-test</artifactId>      
-      <scope>test</scope>
+      <artifactId>camel-test</artifactId>            
     </dependency>
     <dependency>
       <groupId>junit</groupId>
