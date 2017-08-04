@@ -50,8 +50,7 @@
     </dependency>
     <dependency>
       <groupId>log4j</groupId>
-      <artifactId>log4j</artifactId>
-      <scope>test</scope>
+      <artifactId>log4j</artifactId>      
     </dependency>
   </dependencies>
   <build>
